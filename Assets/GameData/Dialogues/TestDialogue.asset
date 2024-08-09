@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adad683bfd4fd4fdf8dcbdfa0722f403, type: 3}
+  m_Name: TestDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - avatarSprite: {fileID: 21300000, guid: da67f04ed8579427b9c3f55f43935c2a, type: 3}
+    isLeftAvatar: 1
+    text: Oh... It seems like father left me a letter.
+  - avatarSprite: {fileID: 21300000, guid: 23aaf87a5357140cd95eaf468a459a1f, type: 3}
+    isLeftAvatar: 0
+    text: '"Saki, I went to the city to buy groceries."'
+  - avatarSprite: {fileID: 21300000, guid: 23aaf87a5357140cd95eaf468a459a1f, type: 3}
+    isLeftAvatar: 0
+    text: '"Last night I heard some strange noises from the grove."'
+  - avatarSprite: {fileID: 21300000, guid: 23aaf87a5357140cd95eaf468a459a1f, type: 3}
+    isLeftAvatar: 0
+    text: '"If you have time, could you please check it out?"'
+  - avatarSprite: {fileID: 21300000, guid: 2976d90f303fc41a39bb64c72e60de3b, type: 3}
+    isLeftAvatar: 1
+    text: Better go take a look. It's slug season after all.

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SceneTransition
+  - InitialCameraGoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Interactable
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg_00
+    uniqueID: 511486817
+    locked: 0
+  - name: bg_01
+    uniqueID: 3177855439
+    locked: 0
+  - name: lvl_00
+    uniqueID: 726787641
+    locked: 0
+  - name: enemy
+    uniqueID: 3938197443
+    locked: 0
+  - name: player
+    uniqueID: 870906017
+    locked: 0
+  - name: lvl_front_00
+    uniqueID: 3700179613
+    locked: 0
+  - name: player_ui
+    uniqueID: 80351601
+    locked: 0
+  - name: screen_overlay
+    uniqueID: 3548889949
+    locked: 0
